@@ -1,1 +1,1 @@
-# tarefa-segunda-semana
+Confesso que tive certa facilidade para executar os exercícios devido a um conhecimento prévio de lógica e programação, então não tenho muito o que comentar nesse sentido, mas ainda assim foi interessante ver esses conceitos aplicados a uma nova linguagem pra mim, que é javascript; também conheci novos tipos de dados como undefined; em geral, a experiência da aula foi muito positiva e estou ansiosa para as próximas três semanas desse assunto *-*
